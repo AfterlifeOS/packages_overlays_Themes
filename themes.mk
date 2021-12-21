@@ -296,3 +296,8 @@ PRODUCT_PACKAGES += \
     SharpWiFiOverlay \
     NothingDotWiFiOverlay
 
+# UDFPS Animations
+ifeq ($(TARGET_UDFPS_ANIMATIONS),true)
+PRODUCT_PACKAGES += \
+    UdfpsResources
+endif
