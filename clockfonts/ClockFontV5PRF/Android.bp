@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "ClockFontSedgwickAveOverlay",
-    theme: "ClockFontSedgwickAve",
+    name: "ClockFontV5PRFOverlay",
+    theme: "ClockFontV5PRF",
     product_specific: true,
 }
