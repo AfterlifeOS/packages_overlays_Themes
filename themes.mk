@@ -100,7 +100,15 @@ PRODUCT_PACKAGES += \
     IconPackRoundedThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
     IconPackOutlineSettingsOverlay \
-    IconPackOutlineSystemUIOverlay
+    IconPackOutlineSystemUIOverlay \
+    IconPackPlumpySystemUIOverlay \
+    IconPackPlumpyAndroidOverlay \
+    IconPackAuroraAndroidOverlay \
+    IconPackAuroraSystemUIOverlay \
+    IconPackGradiconAndroidOverlay \
+    IconPackGradiconSystemUIOverlay \
+    IconPackLornAndroidOverlay \
+    IconPackLornSystemUIOverlay
 
 # Icon shapes
 PRODUCT_PACKAGES += \
