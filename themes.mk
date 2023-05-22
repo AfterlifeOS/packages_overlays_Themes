@@ -53,6 +53,11 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/prebuilt,$(T
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
 
+# Other
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay \
+    RoundQSOverlay
+
 # Font Overalys
 PRODUCT_PACKAGES += \
     FontAclonicaSourceOverlay \
