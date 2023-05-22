@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Copyright (C) 2023-2024 AfterlifeOS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -359,3 +358,7 @@ ifeq ($(TARGET_UDFPS_ANIMATIONS),true)
 PRODUCT_PACKAGES += \
     UdfpsResources
 endif
+
+# RoundQS
+PRODUCT_PACKAGES += \
+    RoundQSOverlay
