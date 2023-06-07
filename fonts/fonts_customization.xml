@@ -559,4 +559,10 @@
     <alias name="accuratist-semi-bold" to="accuratist" weight="600" />
     <alias name="accuratist-bold" to="accuratist" weight="700" />
 
+    <!-- Simple day -->
+    <family customizationType="new-named-family" name="simpleday">
+        <font weight="400" style="normal">SimpleDay.ttf</font>
+    </family>
+    <alias name="simpleday-regular" to="simpleday" weight="400" />
+
 </fonts-modification>

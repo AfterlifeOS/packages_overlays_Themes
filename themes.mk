@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
 #Font Overalys
 PRODUCT_PACKAGES += \
     FontAccuratistOverlay \
+    FontSimpleDaySourceOverlay \
     FontArbutusSourceOverlay \
     FontArvoLatoOverlay \
     FontGoogleSansOverlay \
