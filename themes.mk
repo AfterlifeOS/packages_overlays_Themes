@@ -129,6 +129,7 @@ PRODUCT_PACKAGES += \
     InsideSignalOverlay \
     InsideWiFiOverlay \
     PillsSignalOverlay \
+    ROGSignalOverlay \
     RoundSignalOverlay \
     RoundWiFiOverlay \
     SneakySignalOverlay \
