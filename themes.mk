@@ -52,6 +52,7 @@ PRODUCT_PACKAGES += \
     FontOneplusSansOverlay \
     FontOneplusSlateSource \
     FontRosemarySourceOverlay \
+    FontSanFranciscoDisplayProSourceOverlay \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay
