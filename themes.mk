@@ -87,7 +87,6 @@ PRODUCT_PACKAGES += \
     IconPackPUISettingsOverlay \
     IconPackPUISystemUIOverlay \
     IconPackPUIThemePickerOverlay \
-    IconPackColorOsAndroidOverlay \
     IconPackFilledAndroidOverlay \
     IconPackFilledLauncherOverlay \
     IconPackFilledSettingsOverlay \
@@ -131,6 +130,8 @@ PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
     BarsSignalOverlay \
     BarsWiFiOverlay \
+    ColorOsSignalOverlay \
+    ColorOsWiFiOverlay \
     DeepSignalOverlay \
     HuaweiSignalOverlay \
     IosSignalOverlay \
