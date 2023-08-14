@@ -178,7 +178,7 @@ PRODUCT_PACKAGES += \
 
 # Stub
 PRODUCT_PACKAGES += \
-    AEXThemesStub
+    AFXThemesStub
 
 # Plugins
 #-include packages/apps/PotatoPlugins/plugins.mk
