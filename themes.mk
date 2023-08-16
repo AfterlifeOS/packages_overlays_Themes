@@ -189,7 +189,10 @@ PRODUCT_PACKAGES += \
     ClockFontProdeltCoOverlay \
     ClockFontRubikGlitchOverlay \
     ClockFontTourneyMediumOverlay
-    
+
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
 
 # Navbar
 PRODUCT_PACKAGES += \
