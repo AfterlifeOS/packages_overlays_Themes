@@ -190,6 +190,14 @@ PRODUCT_PACKAGES += \
     ClockFontRubikGlitchOverlay \
     ClockFontTourneyMediumOverlay
 
+
+# Media Thumb Style
+PRODUCT_PACKAGES += \
+    MediaThumbDragonOverlay\
+    MediaThumbGalonOverlay\
+    MediaThumbPentolOverlay\
+    MediaThumbPentilOverlay
+    
 # QS UI Style
 PRODUCT_PACKAGES += \
     A11QSUI
