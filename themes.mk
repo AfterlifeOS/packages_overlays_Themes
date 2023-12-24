@@ -84,7 +84,6 @@ PRODUCT_PACKAGES += \
     IconPackKaiThemePickerOverlay \
     IconPackPUIAndroidOverlay \
     IconPackPUILauncherOverlay \
-    IconPackPUISettingsOverlay \
     IconPackPUISystemUIOverlay \
     IconPackPUIThemePickerOverlay \
     IconPackFilledAndroidOverlay \
