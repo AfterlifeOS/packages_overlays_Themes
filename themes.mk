@@ -364,3 +364,8 @@ endif
 # RoundQS
 PRODUCT_PACKAGES += \
     RoundQSOverlay
+
+# Utility Overlays
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset
