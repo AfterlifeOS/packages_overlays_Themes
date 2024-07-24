@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="brightness_mirror_height">48.0dip</dimen>
+    <dimen name="custom_rounded_slider_height">48.0dip</dimen>
+    <dimen name="qs_corner_radius">28.0dip</dimen>
+    <dimen name="qs_tile_stroke">1.5dip</dimen>
+    <dimen name="rounded_slider_background_rounded_corner">?android:dialogCornerRadius</dimen>
+    <dimen name="rounded_slider_corner_radius">?android:dialogCornerRadius</dimen>
+    <dimen name="rounded_slider_height">48.0dip</dimen>
+    <dimen name="slider_progress_height">48.0dip</dimen>
+    <dimen name="qs_security_footer_background_inset">0.0dip</dimen>
+    <dimen name="qs_security_footer_corner_radius">28.0dip</dimen>
+</resources>

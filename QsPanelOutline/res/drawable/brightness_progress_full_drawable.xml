@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:autoMirrored="true"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:priv-android="http://schemas.android.com/apk/prv/res/android">
+    <item android:id="@id/slider_foreground" android:height="@dimen/slider_progress_height">
+        <shape>
+            <size android:height="@dimen/slider_progress_height" />
+            <stroke android:width="@dimen/qs_tile_stroke" android:color="@color/color_accent_alpha" />
+            <corners android:radius="@dimen/rounded_slider_corner_radius" />
+        </shape>
+    </item>
+</layer-list>

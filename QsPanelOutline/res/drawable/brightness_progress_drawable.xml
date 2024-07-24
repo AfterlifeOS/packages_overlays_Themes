@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingMode="stack"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="fill_horizontal|center" android:id="@android:id/background">
+        <shape android:tint="@color/offStateColor_alpha" android:shape="rectangle">
+            <size android:height="@dimen/custom_rounded_slider_height" />
+            <corners android:radius="@dimen/rounded_slider_corner_radius" />
+            <solid android:color="@color/offStateColor_alpha" />
+        </shape>
+    </item>
+    <item android:gravity="fill_horizontal|center" android:id="@android:id/progress">
+        <com.android.systemui.util.RoundedCornerProgressDrawable android:drawable="@drawable/brightness_progress_full_drawable" />
+    </item>
+    <item android:gravity="start|center" android:drawable="@drawable/ic_brightness_full" android:start="18.0dip" />
+</layer-list>

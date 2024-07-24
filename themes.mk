@@ -301,6 +301,11 @@ PRODUCT_PACKAGES += \
     SharpWiFiOverlay \
     NothingDotWiFiOverlay
 
+# QS Panel styles
+PRODUCT_PACKAGES += \
+    QspanelOverlay \
+    QspaneloutlineOverlay
+
 # UDFPS Animations
 ifeq ($(TARGET_UDFPS_ANIMATIONS),true)
 PRODUCT_PACKAGES += \
