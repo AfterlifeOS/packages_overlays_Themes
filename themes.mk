@@ -322,6 +322,7 @@ PRODUCT_PACKAGES += \
 # Statusbar Icons
 PRODUCT_PACKAGES += \
     BarsSignalOverlay \
+	ColorOsSignalOverlay \
     IosSignalOverlay \
     SeaSignalOverlay \
     SneakySignalOverlay \
@@ -341,6 +342,7 @@ PRODUCT_PACKAGES += \
 
 # Wi-Fi Icons
 PRODUCT_PACKAGES += \
+	ColorOsWiFiOverlay \
     RoundWiFiOverlay \
     StrokeWiFiOverlay \
     WavyWiFiOverlay \
