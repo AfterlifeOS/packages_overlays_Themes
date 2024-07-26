@@ -205,6 +205,7 @@ PRODUCT_PACKAGES += \
     ButterflySignalOverlay \
     BananaSignalOverlay \
     CircleSignalOverlay \
+    ColorOsSignalOverlay \
     DaunSignalOverlay \
     DecSignalOverlay \
     DeepSignalOverlay \
@@ -265,6 +266,7 @@ PRODUCT_PACKAGES += \
 # Wi-Fi Icons
 PRODUCT_PACKAGES += \
     BarsWiFiOverlay \
+    ColorOsWiFiOverlay \
     InsideWiFiOverlay \
     RoundWiFiOverlay \
     SneakyWiFiOverlay \
