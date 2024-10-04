@@ -1181,4 +1181,7 @@
     <family customizationType="new-named-family" name="tourney-medium">
         <font weight="500" style="normal">Tourney-Medium.ttf</font>
     </family>
+    <family customizationType="new-named-family" name="ios">
+        <font weight="200" style="normal">ios.ttf</font>
+    </family>
 </fonts-modification>

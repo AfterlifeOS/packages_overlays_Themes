@@ -44,7 +44,8 @@ PRODUCT_PACKAGES += \
     ZillaSlab-MediumItalic.ttf \
     ZillaSlab-Medium.ttf \
     ZillaSlab-SemiBoldItalic.ttf \
-    ZillaSlab-SemiBold.ttf 
+    ZillaSlab-SemiBold.ttf \
+    ios.ttf
 
 # Copy fonts
 LOCAL_PATH := packages/overlays/Themes/fonts
@@ -64,6 +65,7 @@ PRODUCT_PACKAGES += \
     FontAmanteSourceOverlay \
     FontAntipastoProSourceOverlay \
     FontApiceOverlay \
+    FontIosOverlay \
     FontArbutusSourceOverlay \
     FontArvoLatoOverlay \
     FontAudimatOverlay \
@@ -131,7 +133,7 @@ PRODUCT_PACKAGES += \
     ClockFontBikoOverlay \
     ClockFontGinoraSansOverlay \
     ClockFontRivieraOverlay \
-    ClockFontUnionOverlay \
+    ClockFontIosOverlay \
     ClockFontVG5000Overlay \
     ClockFont3DIsometricBlackOverlay \
     ClockFont3DIsometricBoldOverlay \
