@@ -12,6 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Black Theme
+PRODUCT_PACKAGES += \
+    BlackThemeOverlay
+
 # Fonts
 PRODUCT_PACKAGES += \
     HarmonyOS-Sans-Italic.ttf \
