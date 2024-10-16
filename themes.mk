@@ -89,7 +89,8 @@ PRODUCT_PACKAGES += \
     FontHumouresqueOverlay \
     FontLoveOverlay \
     FontParisOverlay \
-    FontPiqueOverlay
+    FontPiqueOverlay \
+    FontIosOverlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)

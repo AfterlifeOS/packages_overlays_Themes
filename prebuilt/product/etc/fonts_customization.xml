@@ -542,9 +542,9 @@
 
     <!-- Simple day -->
     <family customizationType="new-named-family" name="simpleday">
-        <font weight="400" style="normal">SimpleDay.ttf</font>
+        <font weight="500" style="normal">SimpleDay.ttf</font>
     </family>
-    <alias name="simpleday-regular" to="simpleday" weight="400" />
+    <alias name="simpleday-regular" to="simpleday" weight="500" />
     
     <!-- SonySketch -->
     <family customizationType="new-named-family" name="sonysketch">
@@ -554,7 +554,7 @@
 
     <!-- Storopia -->
     <family customizationType="new-named-family" name="storopia">
-        <font weight="400" style="normal">Storopia.ttf</font>
+        <font weight="500" style="normal">Storopia.ttf</font>
     </family>
     <alias name="storopia-regular" to="storopia" weight="400" />
 
@@ -1018,31 +1018,31 @@
     
     <!-- IOS font family -->
     <family customizationType="new-named-family" name="kroppen-outline">
-      <font>KroppenOutline.ttf</font>
+      <font weight="900" >KroppenOutline.ttf</font>
     </family>
     <family customizationType="new-named-family" name="kroppen-round">
-      <font>KroppenRound.ttf</font>
+      <font weight="900" >KroppenRound.ttf</font>
     </family>
     <family customizationType="new-named-family" name="newyork-heavy-clock">
-      <font>NewYork-Heavy.otf</font>
+      <font weight="900" >NewYork-Heavy.otf</font>
     </family>
     <family customizationType="new-named-family" name="newyork-semibold-clock">
-      <font>NewYork-Semibold.otf</font>
+      <font weight="900" >NewYork-Semibold.otf</font>
     </family>
     <family customizationType="new-named-family" name="sanfrancisco-sb-clock">
-      <font>SFPro-Semibold.otf</font>
+      <font weight="900" >SFPro-Semibold.otf</font>
     </family>
     <family customizationType="new-named-family" name="sanfrancisco-sb-rails-clock">
-      <font>SFPro-SemiboldRails.otf</font>
+      <font weight="900" >SFPro-SemiboldRails.otf</font>
      </family>
     <family customizationType="new-named-family" name="sanfrancisco-sb-round-clock">
-      <font>SFPro-SemiboldRounded.otf</font>
+      <font weight="900" >SFPro-SemiboldRounded.otf</font>
     </family>
     <family customizationType="new-named-family" name="sanfrancisco-sb-soft-clock">
-      <font>SFPro-SemiboldSoft.otf</font>
+      <font weight="900" >SFPro-SemiboldSoft.otf</font>
     </family>
     <family customizationType="new-named-family" name="sanfrancisco-sb-stencil-clock">
-    <font>SFPro-SemiboldStencil.otf</font>
+    <font weight="900" >SFPro-SemiboldStencil.otf</font>
     </family>
     <family customizationType="new-named-family" name="adventpro">
         <font weight="300" style="normal">AdventPro-Regular.ttf</font>
@@ -1143,7 +1143,7 @@
         <font weight="300" style="normal">Cardelina.ttf</font>
     </family>
     <family customizationType="new-named-family" name="cookie-run">
-        <font weight="300" style="normal">CookieRun-Regular.ttf</font>
+        <font weight="800" style="normal">CookieRun-Regular.ttf</font>
     </family>
     <family customizationType="new-named-family" name="cookie-run-bold">
         <font weight="500" style="normal">CookieRun-Bold.ttf</font>
@@ -1427,7 +1427,7 @@
         <font weight="300" style="normal">ScrapItUp.ttf</font>
     </family>
     <family customizationType="new-named-family" name="SpaceGame">
-        <font weight="300" style="normal">SpaceGame.ttf</font>
+        <font weight="900" style="normal">SpaceGame.ttf</font>
     </family>
     <family customizationType="new-named-family" name="TH3MACHINE">
         <font weight="300" style="normal">TH3MACHINE.ttf</font>
@@ -1496,7 +1496,7 @@
         <font weight="300" style="normal">MonbijouxClownpiece.ttf</font>
     </family>
     <family customizationType="new-named-family" name="Roundheads">
-        <font weight="300" style="normal">Roundheads.ttf</font>
+        <font weight="900" style="normal">Roundheads.ttf</font>
     </family>
 
     <family customizationType="new-named-family" name="googlesansmedium">
@@ -1515,7 +1515,7 @@
 
     <!-- IOS -->
     <family customizationType="new-named-family" name="ios">
-        <font weight="300" style="normal">ios.ttf</font>
+        <font weight="200" style="normal">ios.ttf</font>
     </family>
 
     <!-- Hercules -->
@@ -1525,6 +1525,6 @@
 
     <!-- Slim -->
     <family customizationType="new-named-family" name="slim">
-        <font weight="300" style="normal">slim.ttf</font>
+        <font weight="200" style="normal">slim.ttf</font>
     </family>
 </fonts-modification>
